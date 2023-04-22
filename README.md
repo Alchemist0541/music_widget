@@ -6,7 +6,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-![alt text](https://github.com/Alchemist0541/music_widget/blob/main/main.png)
+![image](https://github.com/Alchemist0541/music_widget/blob/main/main.png)
 
 A few resources to get you started if this is your first Flutter project:
 
